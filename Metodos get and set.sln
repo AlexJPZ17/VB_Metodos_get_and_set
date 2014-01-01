@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Metodos get and set", "Metodos get and set\Metodos get and set.vbproj", "{F83A6EEA-67F7-4470-8AE2-2F42043D385E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F83A6EEA-67F7-4470-8AE2-2F42043D385E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83A6EEA-67F7-4470-8AE2-2F42043D385E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83A6EEA-67F7-4470-8AE2-2F42043D385E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83A6EEA-67F7-4470-8AE2-2F42043D385E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

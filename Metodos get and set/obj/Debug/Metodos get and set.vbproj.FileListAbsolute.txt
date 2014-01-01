@@ -1,0 +1,9 @@
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.exe.config
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.pdb
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\bin\Debug\Metodos get and set.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\obj\Debug\Metodos_get_and_set.Resources.resources
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.vbproj.GenerateResource.Cache
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.exe
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.xml
+D:\Mis Documentos\Projects Visual Studio 2012\Visual Basic\Claces\Console\AJ Programer\Metodos get and set\Metodos get and set\obj\Debug\Metodos get and set.pdb
